@@ -1,6 +1,9 @@
 # Build directory
 /build/
 
+# Built ROMs
+*.nds
+
 # Metroskrew artifacts
 /metroskrew-*.tar.xz
 /metroskrew-*.7z
